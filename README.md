@@ -1,9 +1,9 @@
 # edr-crawler
-my friend ask me to do
+My friend ask me to help that optimse his works. EDR is the website to get the Hong Kong doctor information.
 
-crawl the chinese name, english name, phone, email on edr
+This program will crawl the chinese name, english name, phone, email on the EDR.
 
-the result will be exported to doctor.xlsx
+The result will be exported to doctor.xlsx
 
-# run
-execute the index.py
+# How to run
+execute the index.py - you are required to install python before run.
